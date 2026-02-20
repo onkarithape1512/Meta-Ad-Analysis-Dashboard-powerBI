@@ -47,11 +47,11 @@ The goal is to identify optimization opportunities across the advertising funnel
 
 ### 🔹 Facebook Dashboard
 
-![Facebook Dashboard](Screenshot/Meta_Dashboard_Facebook.png)
+![Facebook Dashboard](Screenshot/Meta_Dashboard_facebook.png)
 
 ### 🔹 Instagram Dashboard
 
-![Instagram Dashboard](Screenshot/Meta_Dashboard_Instagram.png)
+![Instagram Dashboard](Screenshot/Meta_Dashboard_instagram.png)
 
 ---
 
