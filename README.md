@@ -21,6 +21,7 @@ An end-to-end Business Intelligence project analyzing Meta (Facebook & Instagram
 
 ---
 
+<a id="project-overview"></a>
 ## 📖 Project Overview
 
 This project analyzes advertising performance data from Meta platforms to evaluate campaign effectiveness, engagement performance, and conversion efficiency.
@@ -29,6 +30,7 @@ The objective is to generate actionable insights that help optimize marketing sp
 
 ---
 
+<a id="business-problem"></a>
 ## 🎯 Business Problem
 
 Marketing teams require visibility into:
@@ -43,6 +45,7 @@ The goal is to identify optimization opportunities across the advertising funnel
 
 ---
 
+<a id="dashboard-preview"></a>
 ## 📊 Dashboard Preview
 
 ### 🔹 Facebook Dashboard
@@ -55,6 +58,7 @@ The goal is to identify optimization opportunities across the advertising funnel
 
 ---
 
+<a id="data-model"></a>
 ## 🧩 Data Model
 
 The dataset follows a **Star Schema** structure:
@@ -71,6 +75,7 @@ The model enables performance tracking across demographic, campaign, and platfor
 
 ---
 
+<a id="key-kpis"></a>
 ## 📈 Key KPIs
 
 - Total Impressions
@@ -86,6 +91,7 @@ The model enables performance tracking across demographic, campaign, and platfor
 
 ---
 
+<a id="dashboard-features"></a>
 ## 📊 Dashboard Features
 
 - KPI Performance Cards
@@ -99,6 +105,7 @@ The model enables performance tracking across demographic, campaign, and platfor
 
 ---
 
+<a id="key-insights"></a>
 ## 🔍 Key Insights
 
 - Strong top-of-funnel performance with high CTR and engagement rate.
@@ -109,6 +116,7 @@ The model enables performance tracking across demographic, campaign, and platfor
 
 ---
 
+<a id="buisness-recommendations"></a>
 ## 💡 Business Recommendations
 
 - Improve landing page optimization to increase conversions.
@@ -119,6 +127,7 @@ The model enables performance tracking across demographic, campaign, and platfor
 
 ---
 
+<a id="project-documents"></a>
 ## 📄 Project Documents
 
 - 📘 Business Requirements Document (BRD)
@@ -132,6 +141,7 @@ All documents are included in this repository for complete project transparency.
 
 ---
 
+<a id="repository-structure"></a>
 ## 📂 Repository Structure
 
 ```
@@ -164,6 +174,7 @@ META_AD_ANALYSIS_PROJECT/
 
 ---
 
+<a id="tools-used"></a>
 ## 🛠 Tools Used
 
 - Power BI
@@ -173,6 +184,7 @@ META_AD_ANALYSIS_PROJECT/
 
 ---
 
+<a id="author"></a>
 ## 👤 Author
 
 Onkar Ithape  
